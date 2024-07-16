@@ -1,1 +1,1 @@
-print('MCA Rocks')
+print('DU Rocks')
